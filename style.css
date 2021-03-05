@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+body {
+    font-family: 'poppins', sans-serif;
+}
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #e2e3ff;
+}
+#projects {
+    background-color: #e2e3ff;
+}
+section {
+    padding-top: 6rem;
+}
+.card img {
+    object-fit: cover;
+    object-position: center;
+    height: 300px;    
+}
